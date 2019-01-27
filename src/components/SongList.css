@@ -1,0 +1,27 @@
+/* #song-list-component-id p.content-text {
+  font-size: 1rem;
+  color: brown;
+  text-align:center;
+  vertical-align: middle;
+  margin: auto 0;
+}
+
+#song-list-component-id  .song-title-cell {
+  display:flex;
+  align-items: center;
+}
+
+
+#song-list-component-id .row.song-list-item {
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+  margin-top: 3px;
+  margin-bottom: 3px;
+
+}
+
+#song-list-component-id .column {
+  border-style: none none solid none;
+  border-color: #3E5952;
+  border-width:1px;
+} */

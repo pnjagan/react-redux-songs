@@ -1,0 +1,7 @@
+my template -v2
+----------------
+installed create-react-app and created react-app-template
+moved all files in src to backup folder
+installed -> npm i -D eslint-config-airbnb
+added .eslintrc.js -> to include eslint-config-airbnb
+npm start to verify if everything is fine...
